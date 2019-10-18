@@ -1,7 +1,7 @@
 ---
-slug: "~/Clones"
-date: "2019-10-18"
-title: "Startup-Engineering"
+Slug: "~/Clones"
+Date: "2019-10-18"
+Title: "Startup-Engineering"
 ---
 
 # Startup Engineering repo explores:
